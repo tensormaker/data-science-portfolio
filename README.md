@@ -11,4 +11,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-- [Predicting Binary Options Prices](https://github.com/tensormaker/data-science-portfolio/blob/main/BinaryOptionPriceForecast.ipynb): A LSTM model to predict prices of the next minute's closing candle for Binary Options, as you may know price prediction always has some small bias but trends accuracy are near perfection.
+    - [Predicting Binary Options Prices](https://github.com/tensormaker/data-science-portfolio/blob/main/BinaryOptionPriceForecast.ipynb): A LSTM model to predict prices of the next minute's closing candle for Binary Options, as you may know price prediction always has some small bias but trends accuracy are near perfection.
